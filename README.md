@@ -1,7 +1,7 @@
 ## Kian Shepherd
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" height=190 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true" />
+  <img align="center" height=190 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd" />
