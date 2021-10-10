@@ -1,11 +1,9 @@
 ## Kian Shepherd
 
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" height=190 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd" />
-</a>
+
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd" />
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
