@@ -23,7 +23,7 @@
 <img align="left" alt="Haskell" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 <img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<br><br>
+<br><br><br>
 
 <img align="left" alt="Windows" height="26px" width="120px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Arch Linux" height="26px" width="120px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -32,7 +32,8 @@
 <img align="left" alt="WebPack" height="26px" width="120px" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 <img align="left" alt="WebAssembly" height="26px" width="120px" src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" />
 
-<br><br><br>
+
+<br><br><br><br>
 
 ### Contact Me:
 [<img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kian-shepherd/)
