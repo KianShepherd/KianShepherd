@@ -2,7 +2,7 @@
 
 
 <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
 
 
 ### Languages and Tools:
