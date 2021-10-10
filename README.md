@@ -1,16 +1,15 @@
-### Kian Shepherd
+## Kian Shepherd
 
-<hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
 </a>
 
-<br><br>
 
+### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -25,9 +24,6 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-
-
 
 
 
