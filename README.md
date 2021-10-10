@@ -5,7 +5,7 @@
   <img align="center" height=125 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=125 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
+  <img align="center" height=125 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd" />
 </a>
 
 
