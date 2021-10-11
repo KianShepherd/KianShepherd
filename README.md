@@ -5,14 +5,14 @@
    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
 
 
-<br>
+<br><br>
 
 <div>
    <h2>Pinned Repositories</h2>
    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=material-palenight" />
 </div>
  
-<br>
+<br><br>
  
 <div>
    <h2>Languages</h2>
@@ -50,7 +50,7 @@
   <img align="left" alt="Vim" height="26px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
 
-<br>
+<br><br>
 
 <div>
   <h2>Hardware</h2>
@@ -59,7 +59,7 @@
   <img align="left" alt="GPU" height="26px" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
-<br>
+<br><br>
 
 <div>
 <h2>Contact Me</h2>
