@@ -54,10 +54,15 @@
 </div>
 <br>
 <div>
-  <h2>Contact Me</h2>
-  [<img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kian-shepherd/)
-  [<img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kianshepherd73@gmail.com)
+<h2>Contact Me</h2>
+   <a href="https://www.linkedin.com/in/kian-shepherd/">
+      <img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="mailto:kianshepherd73@gmail.com">
+      <img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
 </div>
+
 
 
 
