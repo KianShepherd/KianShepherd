@@ -1,23 +1,19 @@
 <div>
    <h1>Kian Shepherd</h1>
 </div>
-   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
-   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
 
-
-<br><br>
+<br>
 
 <div>
-   <br>
    <h2>Pinned Repositories</h2>
    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=material-palenight" />
-   <br>
 </div>
  
-<br><br>
+<br>
  
 <div>
-   <br>
    <h2>Languages</h2>
    <img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
    <img align="left" alt="CSS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
