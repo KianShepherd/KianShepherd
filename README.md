@@ -1,4 +1,4 @@
-<div>
+<div align="left">
    <h1>Kian Shepherd</h1>
 </div>
 <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
@@ -6,14 +6,14 @@
 
 <br>
 
-<div>
+<div align="left">
    <h2>Pinned Repositories</h2>
    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=material-palenight" />
 </div>
  
 <br>
  
-<div>
+<div align="left">
    <h2>Languages</h2>
    <img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
    <img align="left" alt="CSS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,7 +29,7 @@
 
 <br><br>
 
-<div>
+<div align="left">
    <br>
   <h2>Tools</h2>
   <img align="left" alt="Windows" height="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -53,7 +53,7 @@
 
 <br><br>
 
-<div>
+<div align="left">
    <br>
   <h2>Hardware</h2>
   <img align="left" alt="Desktop" height="26px" src="https://img.shields.io/badge/dell-XPS%2012-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
@@ -64,7 +64,7 @@
 
 <br><br>
 
-<div>
+<div align="left">
    <br>
    <h2>Contact Me</h2>
    <a href="https://www.linkedin.com/in/kian-shepherd/">
