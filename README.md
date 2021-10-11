@@ -24,7 +24,7 @@
 
 <br><br>
 <hr>
-
+<br>
 
 ### Tools
 <img align="left" alt="Windows" height="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -52,7 +52,7 @@
 
 <br><br>
 <hr>
-
+<br>
 
 ### Hardware
 <img align="left" alt="Desktop" height="26px" src="https://img.shields.io/badge/dell-XPS%2012-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
@@ -62,7 +62,7 @@
 
 <br><br>
 <hr>
-
+<br>
 
 ### Contact Me
 [<img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kian-shepherd/)
