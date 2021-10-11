@@ -22,7 +22,8 @@
 <img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
-<br><br>
+<br>
+<br>
 <hr>
 <br>
 
@@ -33,7 +34,8 @@
 <img align="left" alt="Docker" height="26px"src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 
-<br><br>
+<br>
+<br>
 
 <img align="left" alt="WebPack" height="26px" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 <img align="left" alt="WebAssembly" height="26px" src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" />
@@ -42,7 +44,8 @@
 <img align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 
-<br><br>
+<br>
+<br>
 
 
 <img align="left" alt="VS Code" height="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -50,7 +53,8 @@
 <img align="left" alt="Vim" height="26px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 
 
-<br><br>
+<br>
+<br>
 <hr>
 <br>
 
@@ -60,7 +64,8 @@
 <img align="left" alt="GPU" height="26px" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 
-<br><br>
+<br>
+<br>
 <hr>
 <br>
 
