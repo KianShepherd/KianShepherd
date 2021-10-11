@@ -22,6 +22,7 @@
 <img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
+<br><br>
 <hr>
 
 
@@ -49,6 +50,7 @@
 <img align="left" alt="Vim" height="26px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 
 
+<br><br>
 <hr>
 
 
@@ -58,6 +60,7 @@
 <img align="left" alt="GPU" height="26px" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 
+<br><br>
 <hr>
 
 
