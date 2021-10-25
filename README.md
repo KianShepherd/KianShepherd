@@ -10,7 +10,12 @@
 
 <div align="center">
    <h2>Pinned Repositories</h2>
-   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=material-palenight" />
+   <a href="https://github.com/KianShepherd/Rust-Raytracing" target="_blank">
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=material-palenight" />
+   </a>
+   <a href="https://github.com/KianShepherd/seamless" target="_blank">
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=seamless&theme=material-palenight" />
+   </a>
 </div>
  
 <br>
