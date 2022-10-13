@@ -1,8 +1,8 @@
 <div align="center">
    <h1>Kian Shepherd</h1>
-   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
+   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
    <br>
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact&theme=gruvbox" />
 </div>
 
 
@@ -11,10 +11,10 @@
 <div align="center">
    <h2>Pinned Repositories</h2>
    <a href="https://github.com/KianShepherd/Rust-Raytracing" target="_blank">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=material-palenight" />
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=gruvbox" />
    </a>
    <a href="https://github.com/KianShepherd/dusk" target="_blank">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=dusk&theme=material-palenight" />
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=dusk&theme=gruvbox" />
    </a>
 </div>
  
@@ -22,15 +22,16 @@
  
 <div align="center">
    <h2>Languages</h2>
+   <img align="center" alt="Rust" width="48px" src="icons/rust.png" />
+   <img align="center" alt="C" width="48px" src="icons/c.png" />
+   <img align="center" alt="C++" width="48px" src="icons/cpp.png" />
+   <img align="center" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
    <img align="center" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
    <img align="center" alt="CSS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
    <img align="center" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
    <img align="center" alt="Php" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-   <img align="center" alt="Rust" width="48px" src="icons/rust.png" />
-   <img align="center" alt="C" width="48px" src="icons/c.png" />
-   <img align="center" alt="C++" width="48px" src="icons/cpp.png" />
    <img align="center" alt="Haskell" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
-   <img align="center" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+   
 </div>
 
 <br>
