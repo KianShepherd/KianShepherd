@@ -14,7 +14,7 @@
       <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=dusk&theme=gruvbox" />
    </a>
    <a href="https://github.com/KianShepherd/pyrays" target="_blank">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=pyraysg&theme=gruvbox" />
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=pyrays&theme=gruvbox" />
    </a>
 </div>
  
