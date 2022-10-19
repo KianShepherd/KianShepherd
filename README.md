@@ -10,11 +10,11 @@
 
 <div align="center">
    <h2>Pinned Repositories</h2>
-   <a href="https://github.com/KianShepherd/Rust-Raytracing" target="_blank">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=gruvbox" />
-   </a>
    <a href="https://github.com/KianShepherd/dusk" target="_blank">
       <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=dusk&theme=gruvbox" />
+   </a>
+   <a href="https://github.com/KianShepherd/Rust-Raytracing" target="_blank">
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=Rust-Raytracing&theme=gruvbox" />
    </a>
 </div>
  
