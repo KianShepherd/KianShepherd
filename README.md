@@ -69,6 +69,9 @@
 
 <div align="center">
    <h2>Contact Me</h2>
+   <a href="https://gitlab.com/kian_shepherd">
+      <img align="center" alt=Gitlab" height="26px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+   </a>
    <a href="https://www.linkedin.com/in/kian-shepherd/">
       <img align="center" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
