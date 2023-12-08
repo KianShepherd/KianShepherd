@@ -61,7 +61,7 @@
 <div align="center">
   <h2>Hardware</h2>
   <img align="center" alt="Desktop" height="26px" src="https://img.shields.io/badge/dell-XPS%2012-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
-  <img align="center" alt="CPU" height="26px" src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img align="center" alt="CPU" height="26px" src="https://img.shields.io/badge/amd-Ryzen%209%207950X3D-ED1C24.svg?logo=amd&logoColor=white" />
   <img align="center" alt="GPU" height="26px" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
