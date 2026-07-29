@@ -1,8 +1,8 @@
 <div align="center">
    <h1>Kian Shepherd</h1>
-   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=KianShepherd&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
+   <img align="center" width=400 src="https://github-stats-extended.vercel.app/api?username=KianShepherd&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
    <br>
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianShepherd&layout=compact&theme=gruvbox" />
+<img align="center" width=400 src="https://github-stats-extended.vercel.app/api/top-langs/?username=KianShepherd&layout=compact&theme=gruvbox" />
 </div>
 
 
@@ -11,10 +11,10 @@
 <div align="center">
    <h2>Pinned Repositories</h2>
    <a href="https://github.com/KianShepherd/dusk" target="_blank">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=dusk&theme=gruvbox" />
+      <img align="center" width=400 src="https://github-stats-extended.vercel.app/api/pin/?username=KianShepherd&repo=dusk&theme=gruvbox" />
    </a>
    <a href="https://github.com/KianShepherd/pyrays" target="_blank">
-      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=KianShepherd&repo=pyrays&theme=gruvbox" />
+      <img align="center" width=400 src="https://github-stats-extended.vercel.app/api/pin/?username=KianShepherd&repo=pyrays&theme=gruvbox" />
    </a>
 </div>
  
